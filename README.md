@@ -34,8 +34,4 @@ pip install -r requirements.txt
 
 ## Lancer le notebook
 
-Ouvrez et exécutez le notebook :
-
-```
-DL_project_fruit_veg_image_classification.ipynb
-```
+Ouvrez et exécutez le notebook : DL_project_fruit_veg_image_classification.ipynb
